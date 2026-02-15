@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -30,5 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
