@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
