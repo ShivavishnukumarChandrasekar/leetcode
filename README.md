@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
