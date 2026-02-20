@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+| [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
