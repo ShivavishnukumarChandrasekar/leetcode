@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
