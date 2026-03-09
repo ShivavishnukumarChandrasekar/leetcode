@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0022-generate-parentheses) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
