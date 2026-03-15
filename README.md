@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
+| [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
