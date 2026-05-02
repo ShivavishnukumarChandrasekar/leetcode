@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
