@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
