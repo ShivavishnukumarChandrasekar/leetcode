@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
