@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0036-valid-sudoku) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
