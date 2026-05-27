@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0037-sudoku-solver) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
