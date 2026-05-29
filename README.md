@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2573-find-the-string-with-lcp](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2906-construct-product-matrix) |
@@ -391,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
