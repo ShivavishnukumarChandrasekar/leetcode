@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
