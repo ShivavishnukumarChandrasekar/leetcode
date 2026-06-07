@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
