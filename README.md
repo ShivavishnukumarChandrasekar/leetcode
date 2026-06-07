@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
