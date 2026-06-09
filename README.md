@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0047-permutations-ii) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 | [1340-jump-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
