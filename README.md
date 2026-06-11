@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
