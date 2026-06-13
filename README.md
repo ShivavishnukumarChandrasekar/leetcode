@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0054-spiral-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
