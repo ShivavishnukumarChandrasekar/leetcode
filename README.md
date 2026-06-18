@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0071-simplify-path) |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0071-simplify-path) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2751-robot-collisions) |
 ## Trie
