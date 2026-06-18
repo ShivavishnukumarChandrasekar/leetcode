@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0056-merge-intervals) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 | [1340-jump-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
