@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0049-group-anagrams) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
