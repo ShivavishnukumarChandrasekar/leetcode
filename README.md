@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0072-edit-distance) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
