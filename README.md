@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0072-edit-distance) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0064-minimum-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
