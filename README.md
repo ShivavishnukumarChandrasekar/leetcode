@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
