@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2751-robot-collisions) |
 ## Trie
@@ -705,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3620-network-recovery-pathways) |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
