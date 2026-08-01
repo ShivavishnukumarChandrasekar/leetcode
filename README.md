@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0072-edit-distance) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -728,4 +732,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
