@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
