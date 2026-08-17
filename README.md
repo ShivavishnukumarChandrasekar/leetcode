@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1840-maximum-building-height) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
