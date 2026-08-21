@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2540-minimum-common-value) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -772,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Topological Sort
 | Problem Name | Difficulty |
