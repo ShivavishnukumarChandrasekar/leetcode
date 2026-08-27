@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 | Problem Name | Difficulty |
