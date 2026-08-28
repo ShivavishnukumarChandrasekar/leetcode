@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 | Problem Name | Difficulty |
