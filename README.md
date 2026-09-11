@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
