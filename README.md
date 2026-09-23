@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0696-count-binary-substrings) |
