@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0874-walking-robot-simulation](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1345-jump-game-iv) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0075-sort-colors) |
 | [0761-special-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1340-jump-game-v) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -819,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2751-robot-collisions) |
 ## Trie
