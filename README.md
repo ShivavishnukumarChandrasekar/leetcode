@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2029-stone-game-ix](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2409-count-days-spent-together](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShivavishnukumarChandrasekar/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
